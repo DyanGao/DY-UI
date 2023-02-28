@@ -1,0 +1,24 @@
+{
+  "name": "dy-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "less": "^4.1.3",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.3",
+    "vue": "^3.2.36"
+  },
+  "dependencies": {
+    "vitepress": "1.0.0-alpha.35"
+  }
+}
