@@ -1,5 +1,7 @@
 # Vue3 UI components project using monorepo
 
+![Web](./web.png)
+
 ## Monorepo envrioment
 
 ### 1. Global install pnpm

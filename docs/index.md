@@ -17,7 +17,7 @@ hero:
       link: /guide/
     - theme: alt
       text: View on Github
-      link: https://github.com/DyanGao
+      link: https://github.com/DyanGao/DY-UI
 
 features:
   - icon: 💡
